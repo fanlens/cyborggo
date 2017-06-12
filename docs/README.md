@@ -15,7 +15,6 @@ In order to proof this you need show 3 consecutive wins against a RandoGo, a bot
 Depending on how many Teams will participate we will hold some of the preliminaries online and only do the finals with the big group, we'll see.
 
 The ruleset:
-* Boardsize: 13x13
 * Everything necessary to run the bot (this includes source code, pretrained models, etc.) needs to meet the following requirements:
     * created by the team (reimplementation of a research paper is ok, but don't copy paste)
     * needs to fit into a free/public Github repository (https://help.github.com/articles/what-is-my-disk-quota/)
