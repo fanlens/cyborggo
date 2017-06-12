@@ -17,11 +17,11 @@ Depending on how many Teams will participate we will hold some of the preliminar
 The ruleset:
 * Boardsize: 13x13
 * Everything necessary to run the bot (this includes source code, pretrained models, etc.) needs to meet the following requirements:
- * created by the team (reimplementation of a research paper is ok, but don't copy paste)
- * needs to fit into a free/public Github repository (https://help.github.com/articles/what-is-my-disk-quota/)
- * needs to be uploaded to Github before the Deadline
- * needs to be licensed with an open source license, e.g. BSD, MIT, Apache, etc.
- * Adherence will be ensured by peer review
+  * created by the team (reimplementation of a research paper is ok, but don't copy paste)
+  * needs to fit into a free/public Github repository (https://help.github.com/articles/what-is-my-disk-quota/)
+  * needs to be uploaded to Github before the Deadline
+  * needs to be licensed with an open source license, e.g. BSD, MIT, Apache, etc.
+  * Adherence will be ensured by peer review
 * Counting Rules: Japanese 
 * Boardsize: 13x13
 * Timelimit: 30s per move (Note: we switched it the time per move to 30s for now, depending on amount of teams and how we'll plan the day this might change, so please keep it parametric.)
