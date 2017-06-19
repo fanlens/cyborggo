@@ -1,0 +1,16 @@
+{
+  "name": "cyborggo-proxy",
+  "version": "0.0.1",
+  "description": "REST Proxy for online-go.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.7.1",
+    "socket.io-client": "^2.0.3"
+  }
+}
