@@ -34,7 +34,8 @@ Please register your team at: <http://doodle.com/poll/sds793hkurkmi9gp>
 The promised Python skeleton unfortunately is not ready yet due to version mismatches of the socket.io api of online-go.com and the Python libraries, paired with Christian wanting to relax a bit on the weekend ;)
 If you want to develop in node.js however it seems to work.
 The api can be found here: <https://ogs.readme.io/docs/real-time-api>
-BE ADVISED: <ggs.online-go.com> has been retired, connect to online-go.com directly and enforce a 'websocket' transport in your library of choice, e.g.
+BE ADVISED: <http://ggs.online-go.com> has been retired, connect to online-go.com directly and enforce a 'websocket' transport in your library of choice, e.g.
+
 ```SocketIO('https://online-go.com/', port=443, transports=['websocket'])```
 
 All updates can also be found on:
